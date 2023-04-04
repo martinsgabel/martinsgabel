@@ -3,7 +3,7 @@
 *I'm a Brazilian full stack dev, focusing on Front End and mobile. Currently searching for a remote entry job, all the while studying React Native to start developing phone apps.*
 
 You may contact me through:
-- 💬 055 33 9 9100 2351 (WhatsApp)
+- 💬 +55 33 9 9100 2351 (WhatsApp)
 - 📬 martinsgabeldev@gmail.com (Email)
 - 💼 [LinkedIn](https://www.linkedin.com/in/martinsgabel/)
 
